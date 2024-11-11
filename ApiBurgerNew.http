@@ -1,0 +1,6 @@
+@ApiBurgerNew_HostAddress = http://localhost:5224
+
+GET {{ApiBurgerNew_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
